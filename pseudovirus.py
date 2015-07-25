@@ -150,8 +150,8 @@ if '__main__' == __name__:
    #subnet = printCIDR(addr)
    #reachip = scan(subnet)
    #print reachip 
-   insertion('master', '192.168.0.25','kodjemana')   
-   start('master', '192.168.0.25','kodjemana')
+   insertion('master', '192.168.0.25','')   
+   start('master', '192.168.0.25','')
 
 
 
